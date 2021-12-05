@@ -1,4 +1,4 @@
-package com.dronikon.example.core;
+package com.marroman.example.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
