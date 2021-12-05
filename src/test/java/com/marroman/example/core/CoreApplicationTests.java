@@ -1,4 +1,4 @@
-package com.dronikon.example.core;
+package com.marroman.example.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
